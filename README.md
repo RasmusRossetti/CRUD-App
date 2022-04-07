@@ -1,6 +1,6 @@
 # CRUD-App
 
-# Project CRUD app made with Node JS.
+# Project made with Node JS and Vanilla JS.
 project is made to practise CRUD operations and communication with front and backend.
 Backend is run by a headless CMS (STRAPI) and the front is built with HTML/ CSS / JS.
 
